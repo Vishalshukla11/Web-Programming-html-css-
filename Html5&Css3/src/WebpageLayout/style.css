@@ -1,0 +1,40 @@
+body{
+   font-family: Arial, Helvetica, sans-serif;
+   margin: 0;
+   padding: 0;
+  
+}
+
+html.body{
+    margin: 100%;
+    padding: 100%;
+}
+
+.header,.footer{
+    background-color:rgb(70, 133, 114);
+    padding: 20px;
+    text-align: center;
+}
+
+.navigationBar{
+    background-color: rgb(177, 89, 31);
+    overflow: hidden;
+}
+
+.navigationBar a{
+    float: left;
+    display: block;
+    color: rgb(55, 57, 169);
+    text-align: center;
+    padding: 20px 15px ;
+    text-decoration:none;
+  
+}
+
+.navigationBar a:hover{
+    background-color: rgb(149, 63, 149);
+}
+
+.main{
+    padding: 20px;
+}

@@ -1,0 +1,19 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+background-color: antiquewhite;
+}
+
+.gallery{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.gallery img{
+    width: 100%;
+    height:auto;
+}
+
+.gallery div{
+    flex:1 0 25% ;
+    margin: 5px;
+}

@@ -1,0 +1,16 @@
+body{
+    font-family: 'Courier New', Courier, monospace;
+    background-color: antiquewhite;
+}
+.card{
+    background-color: rgb(71, 153, 125);
+    padding: 5px;
+    margin: 10px;
+    border: 1px solid rgb(221, 10, 46) ;
+    border-radius: 15px;
+   
+}
+
+.card h3{
+    margin: 0 0 10px;
+}
